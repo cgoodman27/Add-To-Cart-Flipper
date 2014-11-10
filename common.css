@@ -1,0 +1,19 @@
+.ch-grid {
+	position: fixed;
+	top: 100px;
+	left: 165px;
+	padding: 0;
+	list-style: none;
+	display: block;
+	text-align: center;
+	width: 100%;
+}
+
+
+
+.ch-grid li {
+	width: 160px;
+	height: 600px;
+	display: inline-block;
+	margin: 5px;
+}
